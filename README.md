@@ -26,7 +26,7 @@ class Attributes(qqwozz):
             'learning'    : ['go', 'javascript']
         }
         specialities  = ['back-end developer']
-	environnement = ['vscode', 'vs', 'intellij idea']
+	environnement = ['vscode', 'vs']
 
 	return langs, specialities, environnement
 ```
