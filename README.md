@@ -1,34 +1,41 @@
-```python
-@from typing import Tuple, List, Dict
+```go
+package main
 
-class qqwozz:
-    pass
+type Profile struct {
+	Telegram     string
+	Languages    []string
+	Age          int
+	CodeLang     map[string][]string
+	Specialities []string
+	Environment  []string
+}
 
-class Attributes(qqwozz):
-    @property
-    def contact(self) -> Tuple[str, str, str]:
-        telegram = "t.me/qwwozzz"
+func NewProfile() *Profile {
+	return &Profile{
+		Telegram:  "t.me/qwwozzz",
+		Languages: []string{"Russian", "English"},
+		Age:       18,
+		CodeLang: map[string][]string{
+			"expert":       {"python"},
+			"intermediate": {"c++"},
+			"learning":     {"go", "javascript"},
+		},
+		Specialities: []string{"back-end developer"},
+		Environment:  []string{"vscode", "vs"},
+	}
+}
 
-        return telegram
+func (p *Profile) GetContact() (string, string, string) {
+	return p.Telegram, "", ""
+}
 
-    @property
-    def life(self) -> Tuple[List[str], int]:
-        langs = ['Russian', 'English']
-        age   = 18
-		
-        return langs, age
-	
-    @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
-        langs = {
-            'expert'      : ['python'],
-            'intermediate': ['c++'],
-            'learning'    : ['go', 'javascript']
-        }
-        specialities  = ['back-end developer']
-	environnement = ['vscode', 'vs']
+func (p *Profile) GetLife() ([]string, int) {
+	return p.Languages, p.Age
+}
 
-	return langs, specialities, environnement
+func (p *Profile) GetCoding() (map[string][]string, []string, []string) {
+	return p.CodeLang, p.Specialities, p.Environment
+}
 ```
 <h2 align="center">Skills </h2>
 
