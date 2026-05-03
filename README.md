@@ -6,6 +6,59 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Back-end+Developer;🔥+18+y.o.+Tech;" />
 </p>
 
+```go
+package main
+
+type Profile struct {
+	Telegram     string
+	Languages    []string
+	Age          int
+	CodeLang     map[string][]string
+	Specialities []string
+	Environment  []string
+}
+
+func NewProfile() *Profile {
+	return &Profile{
+		Telegram:  "t.me/qwwozzz",
+		Languages: []string{"Russian", "English"},
+		Age:       18,
+		CodeLang: map[string][]string{
+			"expert":       {"python"},
+			"intermediate": {"c++"},
+			"learning":     {"go", "javascript"},
+		},
+		Specialities: []string{"back-end developer"},
+		Environment:  []string{"vscode", "vs"},
+	}
+}
+
+func (p *Profile) GetContact() (string, string, string) {
+	return p.Telegram, "", ""
+}
+
+func (p *Profile) GetLife() ([]string, int) {
+	return p.Languages, p.Age
+}
+
+func (p *Profile) GetCoding() (map[string][]string, []string, []string) {
+	return p.CodeLang, p.Specialities, p.Environment
+}
+```
+
+## 🛠️ **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,bash,js,rust,git,github,docker,linux,neovim,vscode&perline=8" />
+</p>
+
+
+
+<p align="center">
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qqwozz&color=00FFFF&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/qqwozz?style=for-the-badge&logo=github&color=00FFFF&label=FOLLOWERS" />
@@ -34,12 +87,6 @@
 </p>
 
 ---
-
-## 🛠️ **Tech Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,bash,js,rust,git,github,docker,linux,neovim,vscode&perline=8" />
-</p>
 
 ### 🎯 **Core Competencies**
 
