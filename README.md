@@ -21,8 +21,8 @@ func NewProfile() *Profile {
 		Age:       18,
 		CodeLang: map[string][]string{
 			"expert":       {"python"},
-			"intermediate": {"c++"},
-			"learning":     {"go", "javascript"},
+			"intermediate": {"c++", "go"},
+			"learning":     {"javascript"},
 		},
 		Specialities: []string{"back-end developer"},
 		Environment:  []string{"vscode", "vs"},
