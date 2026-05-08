@@ -28,18 +28,6 @@ func NewProfile() *Profile {
 		Environment:  []string{"vscode", "vs"},
 	}
 }
-
-func (p *Profile) GetContact() (string, string, string) {
-	return p.Telegram, "", ""
-}
-
-func (p *Profile) GetLife() ([]string, int) {
-	return p.Languages, p.Age
-}
-
-func (p *Profile) GetCoding() (map[string][]string, []string, []string) {
-	return p.CodeLang, p.Specialities, p.Environment
-}
 ```
 
 ---
