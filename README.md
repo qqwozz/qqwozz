@@ -33,7 +33,7 @@ func NewProfile() *Profile {
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,bash,js,rust,git,github,docker,linux,neovim,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,bash,js,git,github,docker,linux,vscode&perline=8" />
 </p>
 
 <p align="center">
