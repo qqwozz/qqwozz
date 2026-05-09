@@ -42,9 +42,11 @@ func NewProfile() *Profile {
   <img src="https://img.shields.io/github/stars/qqwozz?style=flat-square&logo=github&color=000000&label=STARS" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=light&font=Karla&ext=heatmap&border=0&radius=8&bg_color=ffffff" width="500" />
-</p>
+<div align="center">
+  <a href="https://leetcode.com/nsdmlk">
+    <img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=Fira%20Code&extension=activity" alt="LeetCode Stats" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=qqwozz&theme=default&hide_border=true&background=ffffff" width="45%" />
