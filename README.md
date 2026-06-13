@@ -1,73 +1,100 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=back-end+developer;18+y.o.+tech" />
-</p>
+<div align="center">
 
-```go
-package main
+# qwozz
 
-type Profile struct {
-	Telegram     string
-	Languages    []string
-	Age          int
-	CodeLang     map[string][]string
-	Specialities []string
-	Environment  []string
-}
+### Backend Developer • Python • Go
 
-func NewProfile() *Profile {
-	return &Profile{
-		Telegram:  "t.me/qwwozzz",
-		Languages: []string{"Russian", "English"},
-		Age:       18,
-		CodeLang: map[string][]string{
-			"expert":       {"python"},
-			"intermediate": {"c++", "go"},
-			"learning":     {"javascript"},
-		},
-		Specialities: []string{"back-end developer"},
-		Environment:  []string{"vscode", "vs"},
-	}
-}
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Go;Building+APIs+and+services" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,bash,js,git,github,docker,linux,vscode&perline=8" />
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qqwozz&color=000000&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/qqwozz?style=flat-square&logo=github&color=000000&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/qqwozz?style=flat-square&logo=github&color=000000&label=STARS" />
-</p>
+```go
+type Developer struct {
+    Name         string
+    Age          int
+    Languages    []string
+    MainStack    []string
+    LearningNow  []string
+}
+
+var Me = Developer{
+    Name:      "qwozz",
+    Age:       18,
+    Languages: []string{"Russian", "English"},
+    MainStack: []string{
+        "Python",
+        "Django",
+        "FastAPI",
+        "Go",
+        "PostgreSQL",
+        "Docker",
+        "Linux",
+    },
+    LearningNow: []string{
+        "JavaScript",
+        "System Design",
+    },
+}
+````
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <a href="https://leetcode.com/nsdmlk">
-    <img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=Fira%20Code&extension=activity" alt="LeetCode Stats" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,go,cpp,postgresql,docker,linux,git,github,bash,js,vscode&perline=7" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=qqwozz&theme=default&hide_border=true&background=ffffff" width="45%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&theme=minimal&hide_border=true&area=true&bg_color=ffffff&color=333333&line=000000&point=666666" width="90%" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qqwozz&theme=default" width="90%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qqwozz&theme=default" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qqwozz&theme=default" width="45%" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qqwozz&show_icons=true&theme=github_dark&hide_border=true" />
 
-<p align="center">
-  <a href="https://t.me/qqwozz">Telegram</a> &nbsp;•&nbsp;
-  <a href="https://github.com/qqwozz">GitHub</a> &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/oonixxxxx/">LeetCode</a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwozz&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&theme=github-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=Fira+Code&ext=heatmap" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://t.me/qqwozz">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://github.com/qqwozz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/oonixxxxx/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+</div>
