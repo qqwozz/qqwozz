@@ -2,9 +2,7 @@
 
 # qwozz
 
-### Backend Developer • Python • Go
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Go;Building+APIs+and+services" />
+### Backend Developer • ML engineer • Python • Go • C++ 
 
 </div>
 
@@ -33,10 +31,14 @@ var Me = Developer{
         "PostgreSQL",
         "Docker",
         "Linux",
+        "C++",
+        "JavaScript",
     },
     LearningNow: []string{
-        "JavaScript",
         "System Design",
+        "ML",
+        "Java",
+        "Rust",
     },
 }
 ````
