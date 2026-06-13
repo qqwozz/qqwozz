@@ -65,12 +65,6 @@ var Me = Developer{
 
 </div>
 
-<div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&theme=github-dark&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 ## LeetCode
