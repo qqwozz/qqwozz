@@ -6,20 +6,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/qqwozz?tab=repositories">
-    <img alt="Stars" src="https://img.shields.io/github/stars/qqwozz?style=for-the-badge&color=000000&labelColor=000000" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/qqwozz?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-000000?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/qqwozz?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/qqwozz?style=for-the-badge&color=000000&labelColor=000000" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
