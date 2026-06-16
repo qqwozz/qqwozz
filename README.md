@@ -1,7 +1,7 @@
 <div align="center">
-  
-<a href="https://ibb.co/xSt1Grd6"><img src="https://i.ibb.co/DDH9kjTQ/image.png" alt="image" border="0" width="2100"></a>
 
+# qqwozz
+  
 ### Backend Developer • ML Engineer • Python • Go • C++
 
 </div>
