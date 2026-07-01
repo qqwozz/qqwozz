@@ -2,7 +2,7 @@
 
 # qqwozz
 
-### Backend Developer • ML Engineer • Python • Go • C++
+### Backend Developer • Python • Go • C++
 
 <br>
 
