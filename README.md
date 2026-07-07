@@ -83,31 +83,6 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=qqwozz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qqwozz&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwozz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=qqwozz&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,docker,linux,git,vscode,postman" width="100%">
