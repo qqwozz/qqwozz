@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
+<img src="assets/avatar.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
 
@@ -20,7 +20,7 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 <br><br>
 
-<img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
+<img src="assets/illustration.png" width="170" align="right" style="margin-left: 15px;">
 
 ### Featured Projects
 
@@ -43,7 +43,7 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%">
+  <img src="assets/banner1.jpg" width="100%">
   <br><br>
 
   <a href="https://github.com/qqwozz">
@@ -60,7 +60,7 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
   <br>
 
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/📬%20Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
@@ -72,7 +72,7 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  <img src="assets/banner2.jpg" width="100%">
 </div>
 
 <div align="center">
@@ -95,8 +95,20 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,docker,linux,git,vscode,postman" width="100%">
+<img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,redis,docker,kubernetes,aws,tensorflow,pytorch,linux,git,grafana,vscode,postman" width="100%">
 
 </div>
 
 <br>
+
+<div align="center">
+
+### Let's Connect
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=qqwozz&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
