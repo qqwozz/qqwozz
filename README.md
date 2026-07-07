@@ -83,6 +83,16 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 <div align="center">
 
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&bg_color=0d1117&color=8b949e&line=8b949e&point=ffffff&area=true&area_color=161b22&hide_border=true" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,docker,linux,git,vscode,postman" width="100%">
