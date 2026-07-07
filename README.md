@@ -2,7 +2,7 @@
 
 # qqwozz
 
-### Backend Developer • Python • Go • C++
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;ML+Engineer;Python+%7C+Go+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
 
 <br>
 
@@ -58,6 +58,10 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 
+  <br>
+
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-000000?style=for-the-badge&logo=openai&logoColor=white">
+
 </div>
 
 <br>
@@ -79,40 +83,34 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 <div align="center">
 
-<img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
+### GitHub Stats
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=qqwozz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qqwozz&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%">
 
-<table align="center" style="background: transparent; border: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqwozz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%">
 
-<tr>
-  <td align="right" valign="middle" style="padding-right: 20px;">
-    <strong>Backend</strong>
-  </td>
-  <td align="left">
-    Python • Go • FastAPI • Django • C++
-  </td>
-</tr>
+<img src="https://github-profile-trophy.vercel.app/?username=qqwozz&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%">
 
-<tr>
-  <td align="right" valign="middle" style="padding-right: 20px;">
-    <strong>Database</strong>
-  </td>
-  <td align="left">
-    PostgreSQL • MySQL
-  </td>
-</tr>
+</div>
 
-<tr>
-  <td align="right" valign="middle" style="padding-right: 20px;">
-    <strong>DevOps</strong>
-  </td>
-  <td align="left">
-    Docker • Linux • Git • GitHub • Postman • VS Code
-  </td>
-</tr>
+<br>
 
-</table>
+<div align="center">
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qqwozz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,docker,linux,git,vscode,postman" width="100%">
 
 </div>
 
