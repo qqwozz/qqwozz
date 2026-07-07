@@ -2,7 +2,7 @@
 
 # qqwozz
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;ML+Engineer;Python+%7C+Go+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Python+%7C+Go+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
 
 <br>
 
