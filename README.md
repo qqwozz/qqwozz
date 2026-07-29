@@ -34,11 +34,6 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 </a>
 &nbsp; Secure payment processing service with API integration.<br>
 
-<a href="https://github.com/qqwozz/QW_Trading_Platform">
-  <img src="https://img.shields.io/badge/QW%20Trading-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp; Trading platform with real-time data processing.<br>
-
 </div>
 
 
