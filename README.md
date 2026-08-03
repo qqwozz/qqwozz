@@ -14,7 +14,7 @@
 
 ### Hey there! I'm qwozz
 
-I'm a backend developer and ML engineer with a mild addiction to building things that could probably be solved with a simple script. By day, I work on APIs, backend services, and whatever project has caught my attention this week. By night, I convince myself that learning another programming language is a perfectly reasonable life decision.
+I'm a backend developer with a mild addiction to building things that could probably be solved with a simple script. By day, I work on APIs, backend services, and whatever project has caught my attention this week. By night, I convince myself that learning another programming language is a perfectly reasonable life decision.
 
 When I'm not coding, I'm usually solving LeetCode problems, reading about system design, or turning a five-minute task into a three-hour automation project.
 
