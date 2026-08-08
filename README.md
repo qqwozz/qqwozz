@@ -2,7 +2,7 @@
 
 # qqwozz
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Python+%7C+Go+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Go+%7C+Python+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
 
 <br>
 
@@ -14,9 +14,11 @@
 
 ### Hey there! I'm qwozz
 
-I'm a backend developer with a mild addiction to building things that could probably be solved with a simple script. By day, I work on APIs, backend services, and whatever project has caught my attention this week. By night, I convince myself that learning another programming language is a perfectly reasonable life decision.
+Backend developer focused on Go and Python. I build APIs, payment services, and backend infrastructure — with a particular interest in high-load systems, concurrency, and squeezing out latency.
 
-When I'm not coding, I'm usually solving LeetCode problems, reading about system design, or turning a five-minute task into a three-hour automation project.
+Currently looking for Go backend roles where performance and clean architecture actually matter.
+
+When I'm not shipping code, I'm solving competitive programming problems, reading about system design, or turning a five-minute task into a three-hour automation project.
 
 <br><br>
 
@@ -24,15 +26,25 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 ### Featured Projects
 
+<a href="https://github.com/qqwozz/qw_pay">
+  <img src="https://img.shields.io/badge/QW%20Pay-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp; Payment processing service in Go — handles 3000+ RPS at p99 &lt;15ms.<br>
+
+<a href="https://github.com/qqwozz/autoadmin">
+  <img src="https://img.shields.io/badge/AutoAdmin-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp; Admin automation tool with a goroutine/channel-based worker pool for concurrent task processing.<br>
+
 <a href="https://github.com/qqwozz/enf-shop">
   <img src="https://img.shields.io/badge/ENF%20Shop-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp; E-commerce platform with payments, Docker, backend APIs.<br>
 
-<a href="https://github.com/qqwozz/qw_pay">
-  <img src="https://img.shields.io/badge/QW%20Pay-000000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/qqwozz/OAuth_2.0">
+  <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp; Secure payment processing service with API integration.<br>
+&nbsp; OAuth 2.0 authorization flow implementation.<br>
 
 </div>
 
@@ -55,7 +67,9 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
   <br>
 
-  <img src="https://img.shields.io/badge/📬%20Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/📬%20Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
 </div>
 
@@ -76,8 +90,6 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 
 <br><br>
 
-<br>
-
 <div align="center">
 
 ### Tech Stack
@@ -91,8 +103,6 @@ When I'm not coding, I'm usually solving LeetCode problems, reading about system
 <div align="center">
 
 ### Let's Connect
-
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
 <br>
 
