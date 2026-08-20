@@ -31,11 +31,6 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 </a>
 &nbsp; Payment processing service in Go — handles 3000+ RPS at p99 &lt;15ms.<br>
 
-<a href="https://github.com/qqwozz/autoadmin">
-  <img src="https://img.shields.io/badge/AutoAdmin-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp; Admin automation tool with a goroutine/channel-based worker pool for concurrent task processing.<br>
-
 <a href="https://github.com/qqwozz/enf-shop">
   <img src="https://img.shields.io/badge/ENF%20Shop-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
