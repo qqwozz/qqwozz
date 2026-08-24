@@ -89,7 +89,11 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,fastapi,django,postgresql,mysql,redis,docker,kubernetes,aws,tensorflow,pytorch,linux,git,grafana,vscode,postman" width="100%">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,apple,fastapi,django,postgresql,mysql,redis,docker,kubernetes,aws,tensorflow,pytorch,linux,git,grafana,vscode,postman,figma&perline=10" />
+  </a>
+</p>
 
 </div>
 
