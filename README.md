@@ -36,10 +36,10 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 </a>
 &nbsp; E-commerce platform with payments, Docker, backend APIs.<br>
 
-<a href="https://github.com/qqwozz/OAuth_2.0">
-  <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=github&logoColor=white">
+<a href="[https://github.com/qqwozz/Rubium">
+  <img src="https://img.shields.io/badge/Rubium-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp; OAuth 2.0 authorization flow implementation.<br>
+&nbsp; 一个面向数学和计算机科学考试备考的平台，包含练习工具、练习册、定制模拟试题以及交流社区。.<br>
 
 </div>
 
