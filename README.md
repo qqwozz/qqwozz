@@ -62,7 +62,7 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
   <br>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:qqwozz@internet.ru">
     <img src="https://img.shields.io/badge/📬%20Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
