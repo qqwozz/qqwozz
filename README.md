@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/5edbb280e4892120db5f5e7cef1c722e.jpg" width="2100">
+</div>
+
+<div align="center">
 
 # qqwozz
 
