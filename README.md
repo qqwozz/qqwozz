@@ -69,7 +69,6 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
   <a href="mailto:qqwozz@internet.ru">
     <img src="https://img.shields.io/badge/📬%20Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
 </div>
 
 <br>
@@ -105,6 +104,10 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <div align="center">
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=El%20Messiri&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 ### Let's Connect
 
 <br>
@@ -112,3 +115,5 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 ![Profile Views](https://komarev.com/ghpvc/?username=qqwozz&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+
