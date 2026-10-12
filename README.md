@@ -16,7 +16,7 @@
 
 <div align="justify">
 
-### Hey there! I'm qwozz
+### Hey there! I'm qqwozz
 
 Backend developer focused on Go and Python. I build APIs, payment services, and backend infrastructure — with a particular interest in high-load systems, concurrency, and squeezing out latency.
 
@@ -92,11 +92,16 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 ### Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,cpp,apple,fastapi,django,postgresql,mysql,redis,docker,kubernetes,aws,tensorflow,pytorch,linux,git,grafana,vscode,postman,figma&perline=10" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=redis,git,pytorch,aws,tensorflow,grafana,postman,linux,python,figma,django,fastapi,grpc,go,gin,docker,kubernetes,mysql,postgresql,cpp,vscode,apple&perline=11" alt="Tech Stack" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ekimenkov33/pictures/master/dost.PNG" height="230" alt="King" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
