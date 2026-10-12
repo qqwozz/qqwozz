@@ -88,8 +88,6 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ekimenkov33/pictures/master/dost.PNG" height="230" align="right" alt="King" />
-
 <div align="center">
 
 ### Tech Stack
