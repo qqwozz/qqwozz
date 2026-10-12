@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/5edbb280e4892120db5f5e7cef1c722e.jpg" width="2100">
+  <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/5edbb280e4892120db5f5e7cef1c722e.jpg" width="100%">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/avatar.png" width="210" align="left" style="margin-right: 15px;">
+<img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/avatar.png" width="210" align="left">
 
 <div align="justify">
 
@@ -26,7 +26,7 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <br><br>
 
-<img src="assets/illustration.png" width="170" align="right" style="margin-left: 15px;">
+<img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/illustration.png" width="170" align="right">
 
 ### Featured Projects
 
@@ -40,16 +40,17 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 </a>
 &nbsp; E-commerce platform with payments, Docker, backend APIs.<br>
 
-<a href="[https://github.com/qqwozz/Rubium">
+<a href="https://github.com/qqwozz/Rubium">
   <img src="https://img.shields.io/badge/Rubium-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp; Next-generation open-source educational environment. <br>
 
 </div>
 
+<br clear="all"/>
 
 <div align="center">
-  <img src="assets/banner1.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/banner1.jpg" width="100%">
   <br><br>
 
   <a href="https://github.com/qqwozz">
@@ -75,11 +76,10 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 > Code is never finished. It only becomes slightly less terrible over time.
 
-<br clear="right"/>
 <br>
 
 <div align="center">
-  <img src="assets/banner2.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/banner2.jpg" width="100%">
 </div>
 
 <div align="center">
@@ -104,9 +104,7 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <div align="center">
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=El%20Messiri&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<img src="https://leetcard.jacoblin.cool/oonixxxxx?theme=dark&font=El%20Messiri&ext=heatmap" alt="LeetCode Stats" />
 
 ### Let's Connect
 
@@ -115,5 +113,3 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 ![Profile Views](https://komarev.com/ghpvc/?username=qqwozz&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-
