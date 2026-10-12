@@ -94,7 +94,7 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=redis,git,pytorch,aws,tensorflow,grafana,postman,linux,python,figma,django,fastapi,nginx,grpc,go,gin,docker,kubernetes,mysql,postgresql,cpp,ts,vscode,apple&perline=12" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=redis,git,pytorch,aws,tensorflow,prometheus,grafana,postman,linux,python,figma,django,fastapi,nginx,mongodb,go,docker,kubernetes,mysql,postgresql,cpp,ts,vscode,apple&perline=12" alt="Tech Stack" />
 
 </div>
 
