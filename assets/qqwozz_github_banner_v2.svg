@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Fira Code', Consolas, 'Courier New', monospace">
+  <defs>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#777777" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#eeeeee" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#777777" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="#050505"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#303030"/>
+
+  <text x="30" y="36" font-size="13" fill="#777777">qqwozz / field-notes</text>
+  <text x="1170" y="36" font-size="13" fill="#777777" text-anchor="end">MODE: ITERATION</text>
+
+  <text x="30" y="91" font-size="12" letter-spacing="3" fill="#858585">I DON'T JUST WRITE CODE.</text>
+  <text x="28" y="139" font-size="39" font-weight="600" letter-spacing="-1.4" fill="#f5f5f5">I MAKE IDEAS</text>
+  <text x="28" y="184" font-size="39" font-weight="600" letter-spacing="-1.4" fill="#f5f5f5">SURVIVE PRODUCTION.</text>
+  <rect x="30" y="201" width="90" height="3" rx="1.5" fill="#f5f5f5">
+    <animate attributeName="width" values="24;90;24" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="30" y="230" font-size="13" fill="#858585">backend engineering / ML experiments / systems thinking</text>
+
+  <line x1="30" y1="248" x2="1170" y2="248" stroke="#292929"/>
+  <text x="30" y="270" font-size="11" fill="#707070">THE LOOP</text>
+
+  <line x1="105" y1="292" x2="1095" y2="292" stroke="url(#line)" stroke-width="1.5" stroke-dasharray="3 7"/>
+  <path id="loop" d="M105 292 H1095" fill="none"/>
+  <g fill="#f5f5f5" filter="url(#softGlow)">
+    <circle r="3.5"><animateMotion dur="4.5s" repeatCount="indefinite" begin="0s"><mpath href="#loop"/></animateMotion></circle>
+    <circle r="3.5"><animateMotion dur="4.5s" repeatCount="indefinite" begin="1.125s"><mpath href="#loop"/></animateMotion></circle>
+    <circle r="3.5"><animateMotion dur="4.5s" repeatCount="indefinite" begin="2.25s"><mpath href="#loop"/></animateMotion></circle>
+    <circle r="3.5"><animateMotion dur="4.5s" repeatCount="indefinite" begin="3.375s"><mpath href="#loop"/></animateMotion></circle>
+  </g>
+
+  <g fill="#090909" stroke="#414141" stroke-width="1.2">
+    <rect x="43" y="277" width="124" height="30" rx="7"/>
+    <rect x="286" y="277" width="124" height="30" rx="7"/>
+    <rect x="529" y="274" width="142" height="36" rx="8" stroke="#f0f0f0">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="772" y="277" width="124" height="30" rx="7"/>
+    <rect x="1015" y="277" width="142" height="30" rx="7"/>
+  </g>
+  <g font-size="12" text-anchor="middle" fill="#d8d8d8">
+    <text x="105" y="296">observe</text>
+    <text x="348" y="296">design</text>
+    <text x="600" y="289" fill="#ffffff">build()</text>
+    <text x="600" y="302" font-size="9" fill="#999999">test / refine</text>
+    <text x="834" y="296">ship</text>
+    <text x="1086" y="296">learn + repeat</text>
+  </g>
+</svg>
