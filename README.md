@@ -26,6 +26,13 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <br><br>
 
+<div>
+     
+  <p align="center">
+    <img src="assets/qqwozz_github_banner_v2.svg" width="100%" alt="qqwozz — Backend Engineering">
+  </p>
+</div>
+
 <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/illustration.png" width="170" align="right">
 
 ### Featured Projects
