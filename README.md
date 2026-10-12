@@ -88,22 +88,17 @@ When I'm not shipping code, I'm solving competitive programming problems, readin
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/ekimenkov33/pictures/master/dost.PNG" height="230" align="right" alt="King" />
+
 <div align="center">
 
 ### Tech Stack
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=redis,git,pytorch,aws,tensorflow,grafana,postman,linux,python,figma,django,fastapi,grpc,go,gin,docker,kubernetes,mysql,postgresql,cpp,vscode,apple&perline=11" alt="Tech Stack" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ekimenkov33/pictures/master/dost.PNG" height="230" alt="King" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=redis,git,pytorch,aws,tensorflow,grafana,postman,linux,python,figma,django,fastapi,nginx,grpc,go,gin,docker,kubernetes,mysql,postgresql,cpp,ts,vscode,apple&perline=12" alt="Tech Stack" />
 
 </div>
+
+<br clear="all"/>
 
 <br>
 
