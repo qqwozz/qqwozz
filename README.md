@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/5edbb280e4892120db5f5e7cef1c722e.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/qqwozz/qqwozz/main/assets/tvv.jpg" width="100%">
 </div>
 
 <div align="center">
